@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query>
+  <status>success</status>
+  <country>Japan</country>
+  <countryCode>JP</countryCode>
+  <region>09</region>
+  <regionName>Tochigi</regionName>
+  <city>Shimotsuke</city>
+  <zip>329-0411</zip>
+  <lat>36.3703</lat>
+  <lon>139.8449</lon>
+  <timezone>Asia/Tokyo</timezone>
+  <isp>Research Organization of Information and Systems, National Institute of Informa</isp>
+  <org>National Institute of Informatics</org>
+  <as>AS2907 Research Organization of Information and Systems, National Institute of Informatics</as>
+  <query>202.241.108.153</query>
+</query>
